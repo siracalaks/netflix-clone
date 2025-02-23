@@ -4,7 +4,8 @@ A modern Netflix clone built with React and Firebase, featuring user authenticat
 
 ## 🚀 Live Demo
 
-[View Live Demo]((http://keen-melba-26569e.netlify.app/login)) - *Coming soon on Netlify*
+[View Live Demo](https://keen-melba-26569e.netlify.app) - *Coming soon on Netlify*
+
 
 ![Project Screenshot](path-to-screenshot) <!-- You can add a screenshot of your project here -->
 
